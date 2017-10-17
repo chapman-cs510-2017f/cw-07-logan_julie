@@ -1,8 +1,14 @@
 # CS510 CW 7
 
-**Author(s):** **CHANGME**
+Julie Gardner-Hoag, Logan Gantner
 
-[![Build Status](https://travis-ci.org/chapman-cs510-2017f/cw-07-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-cs510-2017f/cw-07-YOURNAME)
+Student ID: 2299636, 2307470
+
+Email: gardnerh@chapman.edu, gantner@chapman.edu
+
+Course: CS510 Fall 2017
+
+[![Build Status](https://travis-ci.org/chapman-cs510-2017f/cw-07-logan_julie.svg?branch=master)](https://travis-ci.org/chapman-cs510-2017f/cw-07-logan_julie)
 
 ## Specification
 
@@ -31,9 +37,7 @@
 
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
-
-**CHANGEME**
+This assignment was interesting. We had little trouble with it. We experienced an issue with the bbox method while plotting the cosine and sine functions. We were unable to get the white boxes to appear over our function lines. For the 3D plot, we didn't understand how the tutorial got the black lines to appear on the graph.
 
 ## Honor Pledge
 
@@ -44,4 +48,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+Julie Gardner-Hoag, Logan Gantner
